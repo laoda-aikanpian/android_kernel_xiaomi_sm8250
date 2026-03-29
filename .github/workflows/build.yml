@@ -33,7 +33,7 @@ on:
           - build-miui.sh
 
       ksu:
-        description: 'Enable KernelSU (ReSukiSU-SuSFS)'
+        description: 'Enable KernelSU (KernelSU)'
         required: true
         type: boolean
         default: true
